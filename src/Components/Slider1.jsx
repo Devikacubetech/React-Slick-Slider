@@ -41,7 +41,6 @@ function Slider1() {
   }
 
   const { mode } = useContext(myContext);
-  console.log(mode);
   return (
     <section>
       <h2 className="text-center py-5">Simple React Slick Slider</h2>
